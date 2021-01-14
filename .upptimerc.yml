@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: sansiscool101 # Your GitHub username
+repo: uptime-monitor-github # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -17,6 +17,10 @@ sites:
     url: https://www.google.com
   - name: Secret Site
     url: $SECRET_SITE
+  - name: Replit
+    url: https://repl.it
+  - name: my-replit-site
+    url: https://replit-web.jakobgaming.repl.co
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
